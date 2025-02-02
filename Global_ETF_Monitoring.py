@@ -25,7 +25,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 with st.container():
-    st.title("NH Amundi 글로벌솔루션본부")
+    st.title("NH Amundi 글로벌 솔루션 본부")
 
 # 첫 번째 행: 두 개의 컬럼
 col1, col2 = st.columns(2)
