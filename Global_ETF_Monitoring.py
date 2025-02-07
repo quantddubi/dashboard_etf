@@ -320,3 +320,4 @@ page1_bottom.update_layout(
 with st.container():
     # col2에 히트맵 추가
     st.plotly_chart(page1_bottom, use_container_width=True)
+
