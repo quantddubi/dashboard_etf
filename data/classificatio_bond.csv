@@ -1,0 +1,14 @@
+자산군,대분류,분류,ff/aum,return_1w,AUM
+채권,Segmentation,Agg,0.26,0.4,744553.7
+채권,Segmentation,Bank_loan,4.07,-0.0,27128.2
+채권,Segmentation,Convertible,0.26,-0.4,13348.3
+채권,Segmentation,Corporate,0.36,0.3,575606.8
+채권,Segmentation,Government,-0.08,0.1,670026.6
+채권,Segmentation,Inflation_protected,0.68,0.6,68669.8
+채권,Segmentation,Mortgage_Backed,1.02,0.5,78705.6
+채권,Credit Rating,A_above,0.27,0.6,612525.7
+채권,Credit Rating,IG,0.25,0.3,1154050.8
+채권,Credit Rating,HY,0.82,0.2,124096.7
+채권,Maturity,Long,0.1,0.6,241955.3
+채권,Maturity,Intermediate,0.23,0.6,355483.9
+채권,Maturity,Low,0.34,0.2,322523.3
