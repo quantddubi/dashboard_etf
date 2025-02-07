@@ -6,6 +6,7 @@ import altair as alt
 # 페이지 설정: 와이드 모드 활성화
 st.set_page_config(layout="wide")
 
+
 st.markdown(
     """
     <style>
@@ -26,6 +27,13 @@ st.markdown(
 )
 with st.container():
     st.title("NH Amundi 글로벌솔루션본부")
+
+col1_1, col1_2, col1_3, col1_4 = st.columns(4)
+col1_1.metric(label="Stock", value="70 °F", delta="1.2", label_visibility = 'visible')
+col1_2.metric(label="Bond", value="70 °F", delta="1.2 °F", label_visibility = 'visible')
+col1_3.metric(label="Commodity", value="70 °F", delta="1.2 °F", label_visibility = 'visible')
+col1_4.metric(label="USD/KRW", value="70 °F", delta="1.2 °F", label_visibility = 'visible')
+
 
 # 첫 번째 행: 두 개의 컬럼
 col1, col2 = st.columns(2)
@@ -236,3 +244,79 @@ with col5:
     with st.container():
         st.plotly_chart(fig_col5, use_container_width=True)
     st.subheader("세 번째 컬럼 (두 번째 행)")
+
+
+##############################
+# Bottom_4주 누적 순유입액/AUM  #
+##############################
+
+# 데이터 불러오기
+df_page1_bottom = pd.read_csv('./data/page1_ff,aum_4w_cul.csv', index_col=0, parse_dates=True).iloc[3:]
+df_page1_bottom = round(df_page1_bottom,1)
+
+# 전처리
+df_page1_bottom = df_page1_bottom.T
+df_page1_bottom_processing = df_page1_bottom.reset_index().melt(id_vars="index", var_name="Date",
+                                                             value_name="ff/aum")
+df_page1_bottom_processing.rename(columns={"index": "Asset"}, inplace=True)
+
+
+# Asset 컬럼을 Categorical 타입으로 변환하여 순서 유지
+asset_order = ["Commodity", "Bond", "Stock"]
+df_page1_bottom_processing["Asset"] = pd.Categorical(df_page1_bottom_processing["Asset"], categories=asset_order,
+                                                 ordered=True)
+
+# Date 컬럼을 datetime 형식으로 변환
+df_page1_bottom_processing["Date"] = pd.to_datetime(df_page1_bottom_processing["Date"])
+
+ # x축 정렬을 위한 순서값 추가
+df_page1_bottom_processing["DateOrder"] = range(len(df_page1_bottom_processing))
+df_page1_bottom_processing["FormattedDate"] = df_page1_bottom_processing["Date"].dt.strftime("%b %d")
+df_page1_bottom_processing["FormattedDate"] = pd.Categorical(
+    df_page1_bottom_processing["FormattedDate"],
+    categories=df_page1_bottom_processing.sort_values("DateOrder")["FormattedDate"].unique(),
+    ordered=True
+)
+
+# 색상 설정
+colorscale = [[0, "#ffffff"], [0.5, "#c6dbef"], [1, "#084594"]]
+
+pivot_table_4w = df_page1_bottom_processing.pivot(index="Asset", columns="FormattedDate", values="ff/aum").loc[asset_order]
+
+# Plotly 히트맵 생성
+page1_bottom = go.Figure()
+page1_bottom.add_trace(go.Heatmap(
+    z=pivot_table_4w.values,
+    x=pivot_table_4w.columns,
+    y=pivot_table_4w.index,
+    colorscale=colorscale,
+    showscale=True,
+    colorbar=dict(title="FF/AUM(%)", tickfont=dict(size=10, family="Arial"), outlinewidth=0),
+    hovertemplate="Date: %{x}<br>Asset: %{y}<br>FF/AUM(%): %{z:.2f}<extra></extra>",
+))
+
+# 숫자 데이터 라벨 추가
+for i, row in enumerate(pivot_table_4w.index):
+    for j, col in enumerate(pivot_table_4w.columns):
+        page1_col2.add_trace(go.Scatter(
+            x=[col],
+            y=[row],
+            text=[f"{pivot_table_4w.loc[row, col]:.1f}"],
+            mode="text",
+            textfont=dict(size=12, family="Arial", color="#1C1C1C"),
+            showlegend=False
+        ))
+
+# 히트맵 레이아웃 조정
+page1_bottom.update_layout(
+    title="FundFlow(4-week cumulative)/AUM(%)",
+    title_font=dict(size=30, family="Arial", color="#084594"),
+    xaxis=dict(title="", tickfont=dict(size=12, family="Arial")),
+    yaxis=dict(title="", tickfont=dict(size=12, family="Arial")),
+    plot_bgcolor="white",
+    margin=dict(l=5, r=5, t=60, b=10),
+
+)
+with st.container():
+    # col2에 히트맵 추가
+    st.plotly_chart(page1_bottom, use_container_width=True)
