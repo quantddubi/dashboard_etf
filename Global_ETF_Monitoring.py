@@ -1,39 +1,75 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-import altair as alt
 
 # 페이지 설정: 와이드 모드 활성화
 st.set_page_config(layout="wide")
 
-
 st.markdown(
     """
     <style>
-        /* 배경색 변경 */
-        body, [data-testid="stAppViewContainer"] {
+        /* 전체 배경색 변경 */
+        [data-testid="stAppViewContainer"] {
             background-color: #F5FAFF;
-            color: white;
         }
+
+        /* 제목 스타일 */
         h1 {
             color: #084594 !important;  /* 타이틀 색상 */
             font-size: 40px !important; /* 타이틀 크기 */
             font-family: Arial, sans-serif !important; /* 폰트 스타일 */
             text-align: left !important; /* 왼쪽 정렬 */
         }
+
+        /* 커스텀 메트릭 박스 */
+        .ehvl34q0 {
+            background-color: #FFFFFF; /* 배경색 */
+            padding: 5px;
+            border-radius: 15px;
+            text-align: left;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
     </style>
     """,
     unsafe_allow_html=True
 )
+
 with st.container():
     st.title("NH Amundi 글로벌솔루션본부")
 
-col1_1, col1_2, col1_3, col1_4 = st.columns(4)
-col1_1.metric(label="Stock", value="70 °F", delta="1.2", label_visibility = 'visible')
-col1_2.metric(label="Bond", value="70 °F", delta="1.2 °F", label_visibility = 'visible')
-col1_3.metric(label="Commodity", value="70 °F", delta="1.2 °F", label_visibility = 'visible')
-col1_4.metric(label="USD/KRW", value="70 °F", delta="1.2 °F", label_visibility = 'visible')
+###########
+# Metrics #
+###########
+df_metrics = pd.read_csv('./data/page1_metrics_data.csv', index_col=0)
+df_metrics_index = df_metrics.iloc[1,:].round(0).astype(int)
+formatted_values = df_metrics_index.apply(lambda x: f"{x:,}")
 
+df_metrics_chg = round(df_metrics.iloc[0,:],2)
+
+
+col1_1, col1_2, col1_3, col1_4, col1_5, col1_6, col1_7, col1_8, col1_9 = st.columns(9)
+
+col1_1.metric(label="S&P500", value=f"{formatted_values.iloc[0]} pt",
+              delta=f"{df_metrics_chg.iloc[0]} %", label_visibility='visible', border=True)
+col1_2.metric(label="Euro Stoxx", value=f"{formatted_values.iloc[1]} pt",
+              delta=f"{df_metrics_chg.iloc[1]} %", label_visibility='visible', border=True)
+col1_3.metric(label="Nikkei", value=f"{formatted_values.iloc[2]} pt",
+              delta=f"{df_metrics_chg.iloc[2]} %", label_visibility='visible', border=True)
+col1_4.metric(label="CSI300", value=f"{formatted_values.iloc[3]} pt",
+              delta=f"{df_metrics_chg.iloc[3]} %", label_visibility='visible', border=True)
+col1_5.metric(label="KOSPI", value=f"{formatted_values.iloc[4]} pt",
+              delta=f"{df_metrics_chg.iloc[4]} %", label_visibility='visible', border=True)
+col1_6.metric(label="US_2y", value=f"{formatted_values.iloc[5]} %",
+              delta=f"{df_metrics_chg.iloc[5]} %p", label_visibility='visible', border=True)
+col1_7.metric(label="US_10y", value=f"{formatted_values.iloc[6]} %",
+              delta=f"{df_metrics_chg.iloc[6]} %p", label_visibility='visible', border=True)
+col1_8.metric(label="Commodity", value=f"{formatted_values.iloc[7]} USD",
+              delta=f"{df_metrics_chg.iloc[7]} %", label_visibility='visible', border=True)
+col1_9.metric(label="USD/KRW", value=f"{formatted_values.iloc[8]} WON",
+              delta=f"{df_metrics_chg.iloc[8]} WON", label_visibility='visible', border=True)
 
 # 첫 번째 행: 두 개의 컬럼
 col1, col2 = st.columns(2)
@@ -43,7 +79,7 @@ col3, col4, col5 = st.columns(3)
 
 # 파일 불러오기
 
-file_path = "data/asset_index_df.csv"  # 로컬 또는 경로 수정
+file_path = "./data/asset_index_df.csv"  # 로컬 또는 경로 수정
 df_col1_1 = pd.read_csv(file_path, index_col=0)
 
 # 색상 지정 (더 짙은 파란색 계열 적용)
@@ -91,7 +127,7 @@ with col2:
     # 데이터 로드 함수
     @st.cache_data
     def load_data_page1_col2():
-        df = pd.read_csv("data/asset_return_weekly.csv", index_col=0, parse_dates=True)
+        df = pd.read_csv("./data/asset_return_weekly.csv", index_col=0, parse_dates=True)
         return df
 
 
@@ -203,7 +239,6 @@ with col3:
     )
     with st.container():
         st.plotly_chart(fig_col3, use_container_width=True)
-    st.subheader("첫 번째 컬럼 (두 번째 행)")
 
 with col4:
     df_col4 = df_col1_2[['Bond']].iloc[-i_col1_2:, :]
@@ -223,7 +258,6 @@ with col4:
     )
     with st.container():
         st.plotly_chart(fig_col4, use_container_width=True)
-    st.subheader("두 번째 컬럼 (두 번째 행)")
 
 with col5:
     df_col5 = df_col1_2[['Commodity']].iloc[-i_col1_2:, :]
@@ -243,7 +277,6 @@ with col5:
     )
     with st.container():
         st.plotly_chart(fig_col5, use_container_width=True)
-    st.subheader("세 번째 컬럼 (두 번째 행)")
 
 
 ##############################
@@ -252,7 +285,7 @@ with col5:
 
 # 데이터 불러오기
 df_page1_bottom = pd.read_csv('./data/page1_ff,aum_4w_cul.csv', index_col=0, parse_dates=True).iloc[3:]
-df_page1_bottom = round(df_page1_bottom,1)
+df_page1_bottom = round(df_page1_bottom,2)
 
 # 전처리
 df_page1_bottom = df_page1_bottom.T
