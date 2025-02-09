@@ -44,7 +44,9 @@ with st.container():
 # Metrics #
 ###########
 df_metrics = pd.read_csv('./data/page1_metrics_data.csv', index_col=0)
-df_metrics_index = df_metrics.iloc[1,:].round(0).astype(int)
+df_metrics_index1 = df_metrics.loc[1,['US','Europe','Japan','China','Korea','Energy&Fuel','fx']].round(1)
+df_metrics_index2 = df_metrics.loc[1,['Unnamed: 49','Unnamed: 50']].round(2)
+df_metrics_index = pd.concat([df_metrics_index1,df_metrics_index2])
 formatted_values = df_metrics_index.apply(lambda x: f"{x:,}")
 
 df_metrics_chg = round(df_metrics.iloc[0,:],2)
@@ -62,13 +64,13 @@ col1_4.metric(label="CSI300", value=f"{formatted_values.iloc[3]} pt",
               delta=f"{df_metrics_chg.iloc[3]} %", label_visibility='visible', border=True)
 col1_5.metric(label="KOSPI", value=f"{formatted_values.iloc[4]} pt",
               delta=f"{df_metrics_chg.iloc[4]} %", label_visibility='visible', border=True)
-col1_6.metric(label="US_2y", value=f"{formatted_values.iloc[5]} %",
-              delta=f"{df_metrics_chg.iloc[5]} %p", label_visibility='visible', border=True)
-col1_7.metric(label="US_10y", value=f"{formatted_values.iloc[6]} %",
+col1_6.metric(label="US_2y", value=f"{formatted_values.iloc[8]} %",
               delta=f"{df_metrics_chg.iloc[6]} %p", label_visibility='visible', border=True)
-col1_8.metric(label="Commodity", value=f"{formatted_values.iloc[7]} USD",
+col1_7.metric(label="US_10y", value=f"{formatted_values.iloc[7]} %",
+              delta=f"{df_metrics_chg.iloc[5]} %p", label_visibility='visible', border=True)
+col1_8.metric(label="Commodity", value=f"{formatted_values.iloc[5]} USD",
               delta=f"{df_metrics_chg.iloc[7]} %", label_visibility='visible', border=True)
-col1_9.metric(label="USD/KRW", value=f"{formatted_values.iloc[8]} WON",
+col1_9.metric(label="USD/KRW", value=f"{formatted_values.iloc[6]} WON",
               delta=f"{df_metrics_chg.iloc[8]} WON", label_visibility='visible', border=True)
 
 # 첫 번째 행: 두 개의 컬럼
