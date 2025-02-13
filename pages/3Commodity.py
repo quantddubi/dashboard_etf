@@ -31,8 +31,7 @@ col1, col2, col3 = st.columns(3)
 
 
 # CSV 파일 불러오기
-file_path = "./data/page2_ff,aum.csv"  # 실제 파일 경로로 변경 필요
-df_page2 = pd.read_csv(file_path, index_col=0)
+df_page2 =  pd.read_csv('./data/asset_ff,aum,return.csv',index_col=0)
 
 # 주식 데이터 필터링
 df_commodity = df_page2[df_page2.index == '원자재']

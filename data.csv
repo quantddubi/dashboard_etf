@@ -5,7 +5,7 @@ IVV US Equity,iShares Core S&P 500 ETF,599011.141,-594.6089999999999,주식,Blen
 VTI US Equity,Vanguard Total Stock Market ETF,474060.3125,447.7806,주식,Blend,,,DM,US
 QQQ US Equity,Invesco QQQ Trust Series 1,327929.8801,1043.11,주식,Growth,Large,,DM,US
 VUG US Equity,Vanguard Growth ETF,159977.6157,-413.291,주식,Growth,Large,,DM,US
-1306 JP Equity,NEXT FUNDS TOPIX Exchange Traded Fund,153299.4791,58.2573,주식,Blend,,,DM,Japan
+1306 JP Equity,NEXT FUNDS TOPIX Exchange Traded Fund,153299.4762,58.2573,주식,Blend,,,DM,Japan
 VEA US Equity,Vanguard FTSE Developed Markets ETF,141166.967,665.9081,주식,Blend,Large,,DM,
 VTV US Equity,Vanguard Value ETF,135043.6067,313.2427,주식,Value,Large,,DM,US
 IEFA US Equity,iShares Core MSCI EAFE ETF,123933.6083,0.0,주식,Blend,Large,,DM,
@@ -25,7 +25,7 @@ XLK US Equity,Technology Select Sector SPDR Fund,73100.1487,-312.7652,주식,Gro
 IWM US Equity,iShares Russell 2000 ETF,73166.4577,-1152.8233,주식,Blend,small,,DM,US
 1308 JP Equity,Listed Index Fund TOPIX,72695.8265,-598.2804,주식,Blend,,,DM,Japan
 SCHD US Equity,Schwab US Dividend Equity ETF,67238.9798,235.6171,주식,Value,,,DM,US
-1321 JP Equity,NEXT FUNDS Nikkei 225 Exchange Traded Fund,69508.7624,84.3051,주식,Blend,,,DM,Japan
+1321 JP Equity,NEXT FUNDS Nikkei 225 Exchange Traded Fund,69508.7596,84.3051,주식,Blend,,,DM,Japan
 1305 JP Equity,iFree ETF TOPIX,69718.8172,-151.3158,주식,Blend,,,DM,Japan
 VB US Equity,Vanguard Small-Cap ETF,65606.635,166.77669999999998,주식,Blend,small,,DM,US
 ITOT US Equity,iShares Core S&P Total U.S. Stock Market ETF,66186.1297,6.797800000000002,주식,Blend,,,DM,US
@@ -34,7 +34,7 @@ IWD US Equity,iShares Russell 1000 Value ETF,62116.9362,0.0033999999999991,주�
 VYM US Equity,Vanguard High Dividend Yield ETF,61225.85,-330.2687,주식,Value,Large,,DM,
 IVW US Equity,iShares S&P 500 Growth ETF,58461.9306,-177.2536,주식,Growth,Large,,DM,US
 SPLG US Equity,SPDR Portfolio S&P 500 ETF,58633.8938,608.2126,주식,Blend,Large,,DM,US
-510300 CH Equity,Huatai-Pinebridge CSI 300 ETF,56641.02617,452.8091,주식,Blend,Large,,EM,China
+510300 CH Equity,Huatai-Pinebridge CSI 300 ETF,56641.02617,335.7239,주식,Blend,Large,,EM,China
 EFA US Equity,iShares MSCI EAFE ETF,55966.8396,0.0,주식,Blend,Large,,DM,
 SCHX US Equity,Schwab US Large-Cap ETF,53316.369,37.2346,주식,Blend,Large,,DM,US
 XLF US Equity,Financial Select Sector SPDR Fund,54588.6725,304.3864,주식,Blend,Large,financial,DM,US
@@ -52,7 +52,7 @@ VEU US Equity,Vanguard FTSE All-World ex-US ETF,39119.0194,7.173,주식,Blend,La
 JEPI US Equity,JPMorgan Equity Premium Income ETF,38764.5347,121.8282,주식,Value,Large,,DM,US
 IXUS US Equity,iShares Core MSCI Total International Stock ETF,38993.1844,0.0,주식,Blend,,,,
 XLV US Equity,Health Care Select Sector SPDR Fund,37823.9537,-1344.4254999999998,주식,Blend,Large,healthcare,DM,
-510310 CH Equity,E Fund CSI 300 ETF,37535.39452,-21.4706,주식,Blend,Large,,EM,China
+510310 CH Equity,E Fund CSI 300 ETF,37535.39452,-38.4836,주식,Blend,Large,,EM,China
 IVE US Equity,iShares S&P 500 Value ETF,35429.4886,19.6247,주식,Value,Large,,DM,US
 SPYG US Equity,SPDR Portfolio S&P 500 Growth ETF,35532.3765,9.7482,주식,Growth,Large,,DM,US
 XLE US Equity,Energy Select Sector SPDR Fund,32308.7202,-366.8022000000001,주식,Blend,Large,energy,DM,
@@ -71,9 +71,9 @@ SPYV US Equity,SPDR Portfolio S&P 500 Value ETF,25269.9652,-31.5248,주식,Value
 SMH US Equity,VanEck Semiconductor ETF,22673.1727,-315.3305,주식,Growth,Large,technology,DM,US
 MDY US Equity,SPDR S&P MidCap 400 ETF Trust,24430.8036,197.4713,주식,Blend,mid,,DM,
 XLY US Equity,Consumer Discretionary Select Sector SPDR Fund,23877.5497,79.2847,주식,Growth,Large,discretionary,DM,
-510330 CH Equity,China AMC CSI 300 Index ETF,23803.9852,15.8349,주식,Blend,Large,,EM,China
+510330 CH Equity,China AMC CSI 300 Index ETF,23803.9852,47.0255,주식,Blend,Large,,EM,China
 EMIM LN Equity,iShares Core MSCI EM IMI UCITS ETF,24107.34587,-49.60980000000001,주식,Blend,,,EM,
-510050 CH Equity,China AMC SSE 50 ETF,23513.39211,205.0221,주식,Value,Large,,EM,China
+510050 CH Equity,China AMC SSE 50 ETF,23513.39211,300.75690000000003,주식,Value,Large,,EM,China
 159919 CH Equity,Harvest CSI 300 Index ETF,23327.48002,-62.4168,주식,Blend,Large,,EM,China
 USMV US Equity,iShares MSCI USA Min Vol Factor ETF,23577.0619,-111.08010000000002,주식,Blend,Large,,DM,
 SPY5 LN Equity,SPDR S&P 500 UCITS ETF,23726.895,63.633500000000005,주식,Blend,Large,,DM,US
@@ -104,7 +104,7 @@ VOE US Equity,Vanguard Mid-Cap Value ETF,17761.1012,-2.4102000000000032,주식,V
 FNDX US Equity,Schwab Fundamental U.S. Large Company ETF,17917.5272,11.1046,주식,Blend,Large,,DM,
 XLU US Equity,Utilities Select Sector SPDR Fund,17407.8864,129.153,주식,Blend,Large,utilities,DM,
 ISAC LN Equity,iShares MSCI ACWI UCITS ETF,18050.1295,146.009,주식,Blend,Large,,,
-510500 CH Equity,China CSI 500 ETF,17654.63024,53.99570000000001,주식,Blend,mid,,EM,China
+510500 CH Equity,China CSI 500 ETF,17654.63024,146.0805,주식,Blend,mid,,EM,China
 VGK US Equity,Vanguard FTSE Europe ETF,17705.8774,157.39589999999998,주식,Blend,Large,,,
 VHT US Equity,Vanguard Health Care ETF,16979.7862,-23.7028,주식,Blend,,healthcare,DM,
 XLP US Equity,Consumer Staples Select Sector SPDR Fund,16360.1843,-292.8901,주식,Blend,Large,staples,DM,
@@ -139,7 +139,7 @@ GSLC US Equity,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,13460.4506,-86
 SBISENX IN Equity,SBI Sensex ETF,13387.9983,0.0,주식,Blend,Large,,EM,india
 EWJ US Equity,iShares MSCI Japan ETF,13652.4525,-83.0727,주식,Blend,Large,,DM,Japan
 DFUS US Equity,Dimensional US Equity Market ETF,13364.2202,99.4642,주식,Blend,Large,,DM,US
-588000 CH Equity,ChinaAMC CSI Science and Technology Innovation Board 50 ETF,13159.47899,-722.1269,주식,Blend,,technology,EM,China
+588000 CH Equity,ChinaAMC CSI Science and Technology Innovation Board 50 ETF,13159.47899,-880.6940999999999,주식,Blend,,technology,EM,China
 IWO US Equity,iShares Russell 2000 Growth ETF,12597.4375,-29.9519,주식,Growth,small,,DM,
 EQQQ IM Equity,Invesco EQQQ Nasdaq-100 UCITS ETF,13098.13396,-20.1216,주식,Growth,Large,,DM,
 CGDV US Equity,Capital Group Dividend Value ETF,13650.6161,211.4348,주식,Blend,,,DM,US
@@ -174,10 +174,10 @@ AMLP US Equity,Alerian MLP ETF,10626.3152,90.592,주식,Blend,,energy,DM,
 VONV US Equity,Vanguard Russell 1000 Value,10482.7378,-19.4073,주식,Value,Large,,DM,
 ESGV US Equity,Vanguard ESG US Stock ETF,10499.07,98.9842,주식,Blend,,,DM,
 I500 NA Equity,iShares S&P 500 Swap UCITS ETF,10449.6645,121.7972,주식,Blend,Large,,DM,US
-1591 JP Equity,NEXT FUNDS JPX-Nikkei Index 400 Exchange Traded Fund,10723.7819,16.1298,주식,Blend,Large,,DM,Japan
+1591 JP Equity,NEXT FUNDS JPX-Nikkei Index 400 Exchange Traded Fund,10723.7837,16.1298,주식,Blend,Large,,DM,Japan
 SPTM US Equity,SPDR Portfolio S&P 1500 Composite Stock Market ETF,9938.6287,-76.94500000000001,주식,Blend,,,DM,
 CGGR US Equity,Capital Group Growth ETF,10611.0684,191.8443,주식,Growth,Large,,DM,US
-512100 CH Equity,China Southern CSI A100 ETF,9995.96419,21.8651,주식,Blend,small,,EM,China
+512100 CH Equity,China Southern CSI A100 ETF,9995.96419,228.4284,주식,Blend,small,,EM,China
 DFAS US Equity,Dimensional US Small Cap ETF,9898.7875,40.7927,주식,Blend,small,,DM,
 IJK US Equity,iShares S&P Mid-Cap 400 Growth ETF,9612.8622,-23.436,주식,Growth,mid,,DM,
 IGV US Equity,iShares Expanded Tech-Software Sector ETF,11496.021,868.0025,주식,Growth,Large,technology,DM,
@@ -215,7 +215,7 @@ AVUS US Equity,Avantis US Equity ETF,8067.3551,0.0,주식,Value,,,DM,
 XLG US Equity,Invesco Exchange-Traded Fund Trust-Invesco S&P 500r Top 50 ETF,8615.1245,-17.2354,주식,Growth,Large,,DM,US
 XZW0 GR Equity,Xtrackers MSCI World ESG UCITS ETF,8042.63881,-72.1552,주식,Blend,Large,,,
 CALF US Equity,Pacer US Small Cap Cash Cows 100 ETF,7168.3882,-151.9148,주식,Value,small,,DM,
-588080 CH Equity,E Fund CSI Science and Technology Innovation Board 50 ETF,8057.47409,-212.6864,주식,Blend,,technology,EM,China
+588080 CH Equity,E Fund CSI Science and Technology Innovation Board 50 ETF,8057.47409,-281.7791,주식,Blend,,technology,EM,China
 VUN CN Equity,Vanguard US Total Market Index ETF,8004.59859,17.099899999999998,주식,Blend,,,DM,
 VYMI US Equity,Vanguard International High Dividend Yield ETF,8114.0603,0.0293,주식,Blend,Large,,,
 IQLT US Equity,iShares MSCI Intl Quality Factor ETF,7904.1981,0.0,주식,Blend,,,,
@@ -311,10 +311,10 @@ VOOV US Equity,Vanguard S&P 500 Value ETF,5325.3694,0.0,주식,Value,Large,,DM,
 EEDM LN Equity,iShares MSCI EM ESG Enhanced UCITS ETF,5347.0633,0.0,주식,Blend,Large,,EM,
 CW8 FP Equity,AMUNDI MSCI WORLD UCITS ETF,5488.96471,45.6728,주식,Blend,,,,
 1593 JP Equity,MAXIS JPX-Nikkei Index 400 ETF,5423.9204,-16.043699999999998,주식,Blend,Large,,DM,Japan
-360750 KS Equity,MIRAE ASSET TIGER S&P500 ETF,5468.62214,64.6459,주식,Blend,Large,,DM,US
+360750 KS Equity,MIRAE ASSET TIGER S&P500 ETF,5479.65571,64.6459,주식,Blend,Large,,DM,US
 IGF US Equity,iShares Global Infrastructure ETF,5327.8368,74.8497,주식,Blend,,,,
 GUNR US Equity,FlexShares Morningstar Global Upstream Natural Resources Index Fund,4947.937,-47.6464,주식,Blend,Large,,,
-513330 CH Equity,ChinaAMC Hengsheng Internet Science and Technology Industry ETF QDII,5206.64063,-181.48110000000003,주식,,Large,technology,DM,
+513330 CH Equity,ChinaAMC Hengsheng Internet Science and Technology Industry ETF QDII,5206.64063,-301.29580000000004,주식,,Large,technology,DM,
 MGOC AU Equity,Magellan Global Fund/Open Class,5198.16538,0.0,주식,Blend,Large,,,
 UTISENX IN Equity,UTI BSE SENSEX ETF,5021.63844,-7.6928,주식,Blend,Large,,EM,india
 R2US LN Equity,SPDR Russell 2000 U.S. Small Cap UCITS ETF,5135.4984,26.3867,주식,Blend,small,,DM,
@@ -330,7 +330,7 @@ XLB US Equity,Materials Select Sector SPDR Fund,5689.1046,664.4297,주식,Blend,
 IHI US Equity,iShares U.S. Medical Devices ETF,5107.3559,9.6191,주식,Blend,,healthcare,DM,
 SPY4 LN Equity,SPDR S&P 400 U.S. Mid Cap UCITS ETF,5098.394,6.9156,주식,Blend,mid,,DM,US
 NDXEX GR Equity,iShares NASDAQ-100 UCITS ETF DE,5102.82185,10.4863,주식,Growth,Large,,DM,
-512880 CH Equity,Guotai CSI All Share Securities Companies ETF,5010.71085,9.0478,주식,Blend,,financial,EM,China
+512880 CH Equity,Guotai CSI All Share Securities Companies ETF,5010.71085,56.7573,주식,Blend,,financial,EM,China
 MCHI US Equity,iShares MSCI China ETF,5352.4338,0.0,주식,Blend,Large,,EM,China
 PPA US Equity,Invesco Aerospace & Defense ETF,4861.6125,6.0068,주식,Blend,,industrial,DM,
 DSI US Equity,iShares MSCI KLD 400 Social ETF,4697.6595,-0.0439999999999987,주식,Blend,Large,,DM,
@@ -360,7 +360,7 @@ XMMO US Equity,Invesco S&P MidCap Momentum ET,4679.582,78.4768,주식,Growth,mid
 FELC US Equity,Fidelity Enhanced Large Cap Core ETF,4471.384045,-30.917799999999996,주식,Blend,Large,,DM,
 URTH US Equity,iShares MSCI World ETF,4452.2338,0.0,주식,Blend,Large,,,
 DFEM US Equity,Dimensional Emerging Markets Core Equity 2 ETF,4618.3953,0.0,주식,Blend,,,EM,
-QUAL AU Equity,VanEck MSCI International Quality ETF,4629.03601,15.7229,주식,Blend,Large,,,
+QUAL AU Equity,VanEck MSCI International Quality ETF,4585.40584,15.7229,주식,Blend,Large,,,
 SPMO US Equity,Invesco S&P 500 Momentum ETF,5127.6345,305.3747,주식,Blend,Large,,DM,US
 XEQT CN Equity,iShares Core Equity ETF Portfolio,4616.03242,35.3793,주식,Blend,,,,
 EMMUSA SW Equity,UBS Lux Fund Solutions - MSCI Emerging Markets UCITS ETF,4540.3049,4.6091,주식,Blend,Large,,EM,
@@ -374,7 +374,7 @@ VEQT CN Equity,Vanguard All-Equity ETF Portfolio,4435.08987,14.3807,주식,Blend
 IUSK GR Equity,iShares MSCI Europe SRI UCITS ETF,4383.32058,-2.297,주식,Blend,Large,,,
 ESGE US Equity,iShares ESG Aware MSCI EM ETF,4442.9502,0.0,주식,Blend,Large,,EM,
 CPSEBE IN Equity,CPSE ETF,4321.9793,0.0,주식,Blend,Large,,EM,india
-A200 AU Equity,BetaShares Australia 200 ETF,4397.57059,23.4946,주식,Blend,Large,,DM,
+A200 AU Equity,BetaShares Australia 200 ETF,4380.9683,23.4946,주식,Blend,Large,,DM,
 JHMM US Equity,John Hancock Multi-Factor Mid Cap ETF,4207.5822,-7.7353,주식,Blend,mid,,DM,
 EUN2 GR Equity,iShares Core EURO STOXX 50 UCITS ETF EUR Dist,4423.63508,39.49080000000001,주식,Blend,Large,,,Europe
 NBEES IN Equity,Nippon India ETF Nifty 50 BEES,4503.29612,0.0,주식,Growth,Large,,EM,india
@@ -401,18 +401,18 @@ ACWV US Equity,iShares MSCI Global Min Vol Factor ETF,4112.9864,0.0,주식,Blend
 MWOE GR Equity,Amundi ETF ICAV - Amundi MSCI World UCITS ETF,4399.46393,4.2436,주식,Blend,Large,,,
 CBMEM SW Equity,Amundi MSCI Emerging Markets II UCITS ETF,3879.003,-186.5225,주식,Blend,,,EM,
 FV US Equity,First Trust Dorsey Wright Focus 5 ETF,3989.385,0.0,주식,Blend,,,DM,
-512170 CH Equity,Hwabao CSI Medical ETF,3972.3638,-16.4331,주식,,,healthcare,EM,China
-069500 KS Equity,SAMSUNG KODEX 200 SECURITIES EXCHANGE TRADED FUND,4054.06974,80.58640000000001,주식,Growth,Large,,DM,Korea
+512170 CH Equity,Hwabao CSI Medical ETF,3972.3638,-43.4483,주식,,,healthcare,EM,China
+069500 KS Equity,SAMSUNG KODEX 200 SECURITIES EXCHANGE TRADED FUND,4036.82114,80.58640000000001,주식,Growth,Large,,DM,Korea
 SCHC US Equity,Schwab International Small-Cap Equity ETF,4032.9177,0.0,주식,Blend,small,,DM,
 DIVO US Equity,Amplify CWP Enhanced Dividend,4068.4263,53.002,주식,Value,Large,,DM,
 IDV US Equity,iShares International Select Dividend ETF,3998.5945,-14.0836,주식,Blend,,,DM,
 IYF US Equity,iShares U.S. Financials ETF,3985.2729,6.004900000000003,주식,Blend,Large,financial,DM,
 DON US Equity,WisdomTree US MidCap Dividend Fund,3800.653,0.0,주식,Value,mid,,DM,
-NDQ AU Equity,BetaShares NASDAQ 100 ETF,3956.96189,0.0,주식,Blend,Large,,DM,
+NDQ AU Equity,BetaShares NASDAQ 100 ETF,3982.52167,0.0,주식,Blend,Large,,DM,
 SUSA US Equity,iShares MSCI USA ESG Select ETF,3772.9753,-18.5548,주식,Blend,Large,,DM,
 159995 CH Equity,ChinaAMC CNI Semi-conductor Chip ETF,3837.80648,-83.9008,주식,,,technology,EM,China
 S5SD GR Equity,UBS Irl ETF plc - S&P 500 ESG UCITS ETF,3760.14401,3.1531,주식,Blend,Large,,DM,
-512480 CH Equity,GTJA Allianz CSI All-share Semi-conductor Product and Equipment ETF,3809.74084,-209.0239,주식,,,technology,EM,China
+512480 CH Equity,GTJA Allianz CSI All-share Semi-conductor Product and Equipment ETF,3809.74084,-219.5179,주식,,,technology,EM,China
 VDNR LN Equity,Vanguard FTSE North America UCITS ETF,3843.5535,2.3171,주식,Blend,Large,,DM,
 UCAP SW Equity,OSSIAM SHILLER BARCLAYS CAPE US SECTOR VALUE TR,3921.971,5.0663,주식,Value,,,DM,
 SLYG US Equity,SPDR S&P 600 Small Cap Growth ETF,3717.7424,0.0,주식,Growth,small,,DM,
@@ -424,14 +424,14 @@ SKYY US Equity,First Trust Cloud Computing ETF,4033.099,77.4673,주식,Growth,La
 UDVD LN Equity,SPDR S&P US Dividend Aristocrats UCITS ETF,3690.6094,-0.4589999999999996,주식,Value,,,DM,
 XZEW GR Equity,Xtrackers S&P 500 Equal Weight ESG UCITS ETF,3906.26364,59.2312,주식,Blend,Large,,DM,US
 IXJ US Equity,iShares Global Healthcare ETF,3821.3089,0.0,주식,Blend,Large,healthcare,,
-513180 CH Equity,ChinaAMC Hang Seng TECH ETF QDII,3732.29016,-114.4666,주식,,Large,technology,DM,
+513180 CH Equity,ChinaAMC Hang Seng TECH ETF QDII,3732.29016,-141.0703,주식,,Large,technology,DM,
 IYR US Equity,iShares U.S. Real Estate ETF,3904.6264,32.91200000000001,주식,Blend,,,DM,
 00713 TT Equity,Yuanta Taiwan High Dividend LowVolatility ETF,3824.63144,73.55879999999999,주식,Value,,,EM,Taiwan
-512000 CH Equity,Fortune SG CSI All Share Securities Companies ETF,3697.15001,-5.350499999999999,주식,Blend,,financial,EM,China
+512000 CH Equity,Fortune SG CSI All Share Securities Companies ETF,3697.15001,42.2772,주식,Blend,,financial,EM,China
 1473 JP Equity,One ETF TOPIX,3806.3757,-0.0036,주식,Blend,,,DM,Japan
 RSPT US Equity,Invesco S&P 500 Equal Weight Technology ETF,3591.9562,-0.0564000000000008,주식,Blend,Large,technology,DM,
 UKGBPB SW Equity,UBS Lux Fund Solutions - MSCI United Kingdom UCITS ETF,3647.84236,0.6856,주식,Blend,Large,,DM,Europe
-560010 CH Equity,GF CSI 1000 ETF,3607.11274,5.0112000000000005,주식,,,,EM,China
+560010 CH Equity,GF CSI 1000 ETF,3607.11274,77.8809,주식,,,,EM,China
 NAFTRAC MM Equity,Ishares Naftrac,3766.68831,4.530099999999999,주식,Growth,Large,,EM,
 SAEU LN Equity,iShares MSCI Europe ESG Screened UCITS ETF,3720.42926,24.2197,주식,Blend,Large,,,Europe
 URA US Equity,Global X Uranium ETF,3542.4817,0.0,주식,Blend,,materials,,
@@ -464,7 +464,7 @@ BKLC US Equity,BNY Mellon US Large Cap Core Equity ETF,3273.0588,6.9768,주식,B
 C50 FP Equity,Amundi Euro Stoxx 50 UCITS ETF DR,3359.38016,-3.5607,주식,Blend,Large,,,Europe
 CGXU US Equity,Capital Group International Focus Equity ETF,3360.4193,32.5937,주식,Growth,Large,,,
 EUSRI FP Equity,AMUNDI INDEX MSCI EUROPE SRI PAB ETF,3363.8233,-14.5079,주식,Blend,,,,
-133690 KS Equity,Mirae Asset TIGER USA NASDAQ100 ETF,3275.16426,-16.1888,주식,Growth,Large,,DM,
+133690 KS Equity,Mirae Asset TIGER USA NASDAQ100 ETF,3274.75099,-16.1888,주식,Growth,Large,,DM,
 FEZ US Equity,SPDR EURO STOXX 50 ETF,3468.4445,161.6519,주식,Blend,Large,,,Europe
 159949 CH Equity,Huaan ChiNext 50 ETF Fund,3197.20619,13.702400000000004,주식,Growth,,,EM,China
 VIOO US Equity,Vanguard S&P Small-Cap 600 ETF,3119.8975,0.0,주식,Blend,small,,DM,
@@ -479,7 +479,7 @@ DIHP US Equity,Dimensional International High Profitability ETF,3272.3143,27.907
 XYLD US Equity,Global X S&P 500 Covered Call ETF,3227.7982,30.2389,주식,Blend,Large,,DM,
 XSX6 GR Equity,Xtrackers Stoxx Europe 600 UCITS ETF,3164.41666,0.8931000000000001,주식,Blend,,,,
 EPI US Equity,WisdomTree India Earnings Fund,3071.8731,0.0,주식,Blend,,,EM,india
-512010 CH Equity,E Fund CSI 300 Health Care Index ETF,3076.29993,9.0712,주식,Blend,,healthcare,EM,China
+512010 CH Equity,E Fund CSI 300 Health Care Index ETF,3076.29993,0.2776000000000014,주식,Blend,,healthcare,EM,China
 EMUD LN Equity,iShares MSCI EMU ESG Enhanced UCITS ETF,3182.23975,-7.0497000000000005,주식,Blend,Large,,,Europe
 VDEM LN Equity,Vanguard FTSE Emerging Markets UCITS ETF,3153.0622,-3.0481,주식,Blend,Large,,EM,
 UBU3 GR Equity,UBS Irl ETF plc - MSCI USA UCITS ETF,3054.4644,0.0,주식,Blend,Large,,DM,
@@ -545,19 +545,19 @@ SMH LN Equity,VanEck Semiconductor UCITS ETF,2493.5074,-18.505,주식,Growth,Lar
 IMCG US Equity,iShares Morningstar Mid-Cap Growth ETF,2720.5168,3.9903,주식,Growth,mid,,DM,
 PRFZ US Equity,Invesco FTSE RAFI US 1500 Small-Mid ETF,2632.3593,2.4765999999999995,주식,Value,mid,,DM,
 USMC US Equity,Principal US Mega-Cap ETF,2672.9805,3.7339,주식,Blend,Large,,DM,
-513130 CH Equity,Huatai-PineBridge CSOP Hang Seng TECH Index ETF QDII,2612.13955,-36.7527,주식,,Large,technology,DM,
+513130 CH Equity,Huatai-PineBridge CSOP Hang Seng TECH Index ETF QDII,2612.13955,-55.68430000000001,주식,,Large,technology,DM,
 TNOW IM Equity,Amundi MSCI World Information Technology UCITS ETF,2585.00881,-3.1749,주식,Blend,Large,technology,,
 GSUS US Equity,Goldman Sachs MarketBeta US Equity ETF,2608.2474,0.0,주식,Blend,Large,,DM,
 NIFTYIET IN Equity,ICICI Prudential Nifty 50 ETF,2582.50609,0.0,주식,Growth,Large,,EM,india
 ISPY LN Equity,L&G Cyber Security UCITS ETF,2791.50363,1.6679999999999993,주식,Blend,,technology,,
-510880 CH Equity,Huatai-PineBridge SSE Dividend Index ETF,2563.11187,62.842,주식,Value,,,EM,China
+510880 CH Equity,Huatai-PineBridge SSE Dividend Index ETF,2563.11187,44.641,주식,Value,,,EM,China
 ILCG US Equity,iShares Morningstar Growth ETF,2551.445,-9.2759,주식,Growth,Large,,DM,
 IVOO US Equity,Vanguard S&P Mid-Cap 400 ETF,2522.9535,19.6978,주식,Blend,mid,,DM,
 CNYA LN Equity,iShares MSCI China A UCITS ETF,2572.4597,-16.312,주식,Blend,Large,,EM,China
 XDWH GR Equity,Xtrackers MSCI World Health Care UCITS ETF,2681.50297,3.5156,주식,Blend,Large,healthcare,,
 CSUSS SW Equity,iShares MSCI USA Small Cap ESG Enhanced UCITS ETF,2538.2234,59.6915,주식,Blend,small,,DM,
 KBE US Equity,SPDR S&P Bank ETF,2704.4317,86.9705,주식,Blend,,financial,DM,
-379800 KS Equity,Samsung KODEX S&P500 Total Return ETF,2645.57445,38.55930000000001,주식,Value,Large,,DM,
+379800 KS Equity,Samsung KODEX S&P500 Total Return ETF,2646.98641,38.55930000000001,주식,Value,Large,,DM,
 XUU CN Equity,iShares Core S&P US Total Market Index ETF,2527.31734,3.3997,주식,Blend,,,DM,
 XACTVINX SS Equity,XACT Norden,2492.63394,-14.3987,주식,Blend,Large,,DM,
 HELO US Equity,JPMorgan Hedged Equity Laddered Overlay ETF,2673.853827,120.9661,주식,Growth,Large,,DM,
@@ -581,7 +581,7 @@ VDY CN Equity,Vanguard FTSE Canadian High Dividend Yield Index ETF,2380.43309,8.
 DFIS US Equity,Dimensional International Small Cap ETF,2506.3424,0.0,주식,Blend,small,,,
 2823 HK Equity,iShares FTSE China A50 ETF,2363.27727,0.0,주식,Blend,Large,,EM,China
 LRGF US Equity,iShares U.S. Equity Factor ETF,2401.1566,18.8955,주식,Blend,Large,,DM,
-ETHI AU Equity,BetaShares Global Sustainability Leaders ETF,2419.39702,6.115600000000001,주식,Blend,Large,,,
+ETHI AU Equity,BetaShares Global Sustainability Leaders ETF,2426.05452,6.115600000000001,주식,Blend,Large,,,
 83188 HK Equity,ChinaAMC ETF Series - ChinaAMC CSI 300 Index ETF,2388.13933,-3.341600000000001,주식,Blend,,,EM,China
 UBU7 GR Equity,UBS Irl ETF plc - MSCI World UCITS ETF,2564.80594,8.1585,주식,Blend,Large,,,
 IYY US Equity,iShares Dow Jones U.S. ETF,2404.9935,66.4307,주식,Blend,,,DM,
@@ -590,7 +590,7 @@ EAGL US Equity,Eagle Capital Select Equity ETF,2384.049331,-49.5814,주식,Value
 XZEU GR Equity,Xtrackers MSCI Europe ESG UCITS ETF,2421.71912,1.6025,주식,Blend,Large,,,
 IUHC LN Equity,iShares S&P 500 Health Care Sector UCITS ETF,2430.06955,14.6418,주식,Blend,Large,healthcare,DM,
 TPU CN Equity,TD US Equity Index ETF,2350.61794,5.1317,주식,Blend,Large,,DM,
-381170 KS Equity,Mirae Asset TIGER US Tech TOP10 INDXX ETF,2312.75537,11.1203,주식,,Large,,DM,
+381170 KS Equity,Mirae Asset TIGER US Tech TOP10 INDXX ETF,2320.72005,11.1203,주식,,Large,,DM,
 IMTM US Equity,iShares MSCI Intl Momentum Factor ETF,2360.0429,0.0,주식,Blend,,,DM,
 XSEM CN Equity,iShares ESG Aware MSCI Emerging Markets Index ETF,2387.18373,0.7394,주식,Blend,Large,,EM,
 FESM US Equity,Fidelity Enhanced Small Cap ETF,2306.930922,16.7531,주식,Growth,mid,,DM,
@@ -613,13 +613,13 @@ IAI US Equity,iShares U.S. Broker-Dealers & Securities Exchanges ETF,2326.4284,6
 XZMJ GR Equity,Xtrackers MSCI Japan ESG UCITS ETF,2291.64284,0.0,주식,Blend,Large,,DM,Japan
 DFGR US Equity,Dimensional Global Real Estate ETF,2244.854,23.186,주식,Blend,,,,
 GRID US Equity,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,2169.1119,11.9563,주식,Blend,,,,
-512500 CH Equity,China AMC CSI 500 ETF,2152.98709,5.2491,주식,Blend,mid,,EM,China
+512500 CH Equity,China AMC CSI 500 ETF,2152.98709,45.9327,주식,Blend,mid,,EM,China
 SPYX US Equity,SPDR S&P 500 Fossil Fuel Reserves Free ETF,2147.0633,0.0,주식,Blend,Large,,DM,
-TCHF76 IT Equity,Tachlit SAL 4D S&P 500,2189.44099,-0.0718,주식,Blend,Large,,DM,
+TCHF76 IT Equity,Tachlit SAL 4D S&P 500,2182.84685,-0.0718,주식,Blend,Large,,DM,
 ICICIB22 IN Equity,BHARAT 22 ETF,2146.75309,0.0,주식,Blend,,,EM,india
-MTFF23 IT Equity,MTF SAL 4D S&P 500,2177.58329,-1.2644,주식,Blend,Large,,DM,
+MTFF23 IT Equity,MTF SAL 4D S&P 500,2171.02485,-1.2644,주식,Blend,Large,,DM,
 FDIS US Equity,Fidelity MSCI Consumer Discretionary Index ETF,2129.458,10.0132,주식,Blend,Large,discretionary,DM,
-512760 CH Equity,Guotai CES Semi-conductor Industry ETF,2127.35905,-55.9584,주식,,,technology,EM,China
+512760 CH Equity,Guotai CES Semi-conductor Industry ETF,2127.35905,-75.4675,주식,,,technology,EM,China
 XDEV GR Equity,Xtrackers MSCI World Value UCITS ETF,2277.72668,92.426,주식,Value,Large,,,
 1476 JP Equity,iShares Core Japan REIT ETF,2254.4057,26.0408,주식,Blend,,,DM,Japan
 DSTL US Equity,Distillate US Fundamental Stability & Value ETF,2089.1141,5.6348,주식,Blend,Large,,DM,
@@ -644,12 +644,12 @@ JREE LN Equity,JPMorgan Europe Research Enhanced Index Equity ESG UCITS ETF,2092
 EMSRI FP Equity,AMUNDI INDEX MSCI EMERGING MARKETS SRI PAB ETF,2027.45037,-0.8259,주식,Blend,,,EM,
 IXC US Equity,iShares Global Energy ETF,1923.9792,0.0,주식,Blend,Large,energy,,
 BBMC US Equity,JPMorgan BetaBuilders US Mid Cap Equity ETF,1866.483,-58.091,주식,Blend,mid,,DM,
-MORES1 IT Equity,MORE SAL 4D S&P 500,2011.06719,4.3898,주식,Blend,Large,,DM,
+MORES1 IT Equity,MORE SAL 4D S&P 500,2005.01027,4.3898,주식,Blend,Large,,DM,
 IUVL LN Equity,iShares Edge MSCI USA Value Factor UCITS ETF,1925.8303,6.792899999999996,주식,Value,,,DM,
 ESML US Equity,iShares ESG Aware MSCI USA Small-Cap ETF,1959.0837,30.659,주식,Blend,small,,DM,
 IPAC US Equity,iShares Core MSCI Pacific ETF,1985.3068,0.0,주식,Blend,,,,
 FEMR LN Equity,Fidelity Sustainable Research Enhanced Emerging Markets Equity UCITS ETF,1990.4317,-22.9191,주식,Blend,Large,,EM,
-1489 JP Equity,NEXT FUNDS Nikkei 225 High Dividend Yield Stock 50 Index Exchange Traded Fund,2148.744,9.1406,주식,Value,Large,,DM,Japan
+1489 JP Equity,NEXT FUNDS Nikkei 225 High Dividend Yield Stock 50 Index Exchange Traded Fund,2148.7419,9.1406,주식,Value,Large,,DM,Japan
 XHB US Equity,SPDR S&P Homebuilders ETF,1831.5733,-64.8079,주식,Blend,,discretionary,DM,
 KSMF74 IT Equity,KSM ETF 4A TA-125,1955.41419,8.637,주식,Blend,,,DM,
 GCOW US Equity,Pacer Global Cash Cows Dividend ETF,1977.3421,0.0,주식,Value,Large,,,
@@ -662,20 +662,20 @@ GUSA US Equity,Goldman Sachs Marketbeta US 1000 Equity ETF,1889.4497,-0.05360000
 DFNS LN Equity,VanEck Defense UCITS ETF,2184.6065,83.3389,주식,Blend,,industrial,,
 513100 CH Equity,Guotai Nasdaq 100 Exchange Traded Fund,1893.32736,0.0,주식,Blend,Large,,DM,
 PABU US Equity,iShares Paris-Aligned Climate MSCI USA ETF,1947.0678,3.3126,주식,Blend,Large,,DM,
-513060 CH Equity,Bosera Hang Seng Healthcare ETF QDII,1874.67795,-17.3763,주식,,,healthcare,DM,
-510900 CH Equity,E Fund Hang Seng China Enterprises Index ETF,1873.04799,-15.4026,주식,Blend,Large,,DM,
+513060 CH Equity,Bosera Hang Seng Healthcare ETF QDII,1874.67795,-21.783900000000003,주식,,,healthcare,DM,
+510900 CH Equity,E Fund Hang Seng China Enterprises Index ETF,1873.04799,-42.8518,주식,Blend,Large,,DM,
 00881 TT Equity,Cathay Taiwan 5G Plus Communications ETF,1871.45802,11.4625,주식,Growth,,Communication,EM,Taiwan
-1615 JP Equity,NEXT FUNDS TOPIX Banks Exchange Traded Fund,1633.2762,-309.739,주식,Blend,,financial,DM,Japan
+1615 JP Equity,NEXT FUNDS TOPIX Banks Exchange Traded Fund,1633.2769,-309.739,주식,Blend,,financial,DM,Japan
 GGRA LN Equity,WisdomTree Global Quality Dividend Growth UCITS ETF,1923.2953,1.3171,주식,Growth,Large,,,
 ARKW US Equity,ARK Next Generation Internet ETF,1930.6411,18.1003,주식,Blend,,technology,DM,
 EPP US Equity,iShares MSCI Pacific ex Japan ETF,1856.98,-13.403,주식,Blend,Large,,DM,
 QDF US Equity,FlexShares Quality Dividend Index Fund,1856.343,0.0,주식,Blend,Large,,DM,
 XDJP GR Equity,Xtrackers Nikkei 225 UCITS ETF,1828.80703,0.5112,주식,Blend,Large,,DM,Japan
 RWR US Equity,SPDR Dow Jones REIT ETF,1807.0371,-42.853,주식,Blend,,,DM,
-381180 KS Equity,Mirae Asset TIGER US PHLX Semiconductor Sector Nasdaq ETF,1752.16562,-8.7124,주식,Blend,Large,technology,DM,
+381180 KS Equity,Mirae Asset TIGER US PHLX Semiconductor Sector Nasdaq ETF,1745.40577,-8.7124,주식,Blend,Large,technology,DM,
 XD5E GR Equity,Xtrackers MSCI EMU UCITS ETF,1946.17641,50.385000000000005,주식,Blend,Large,,,
 FIW US Equity,First Trust Water ETF,1804.4244,0.0,주식,Blend,,utilities,DM,
-HRLF25 IT Equity,Harel Sal 4D S&P 500,1875.43761,-1.5036,주식,Blend,Large,,DM,
+HRLF25 IT Equity,Harel Sal 4D S&P 500,1869.78917,-1.5036,주식,Blend,Large,,DM,
 VAP AU Equity,Vanguard Australian Property Securities Index ETF,1835.61255,0.0,주식,Blend,,,DM,
 IVLU US Equity,iShares MSCI Intl Value Factor ETF,1878.9238,0.0,주식,Value,,,DM,
 FENI US Equity,Fidelity Enhanced International ETF,1907.499779,8.621500000000001,주식,Growth,,,DM,
@@ -709,7 +709,7 @@ NULV US Equity,Nuveen ESG Large-Cap Value ETF,1672.5864,-2.0373,주식,Value,Lar
 EXCH NA Equity,iShares MSCI EM EX-China UCITS ETF,1965.267,-0.0624000000000001,주식,Blend,Large,,EM,
 1474 JP Equity,One ETF JPX-Nikkei 400,1742.5265,0.0542,주식,Blend,Large,,DM,Japan
 FUTY US Equity,Fidelity MSCI Utilities Index ETF,1660.9732,2.5243,주식,Blend,Large,utilities,DM,
-515330 CH Equity,Tianhong CSI 300 ETF,1684.30199,-5.7513000000000005,주식,,,,EM,China
+515330 CH Equity,Tianhong CSI 300 ETF,1684.30199,-18.7845,주식,,,,EM,China
 EEJD LN Equity,iShares MSCI Japan ESG Enhanced UCITS ETF,1745.9085,0.8263,주식,Blend,Large,,DM,Japan
 EFIV US Equity,SPDR S&P 500 ESG ETF,1701.2385,-20.0294,주식,Blend,Large,,DM,
 XME US Equity,SPDR S&P Metals & Mining ETF,1626.5105,-6.084899999999999,주식,Blend,,materials,DM,
@@ -722,9 +722,9 @@ OIH US Equity,VanEck Oil Services ETF,1433.0804,-70.8149,주식,Blend,Large,ener
 HDEF US Equity,Xtrackers MSCI EAFE High Dividend Yield Equity ETF,1718.0501,0.0,주식,Blend,,,DM,
 XUFN GR Equity,Xtrackers MSCI USA Financials UCITS ETF,1758.86197,28.3345,주식,Blend,Large,,DM,
 XSOE US Equity,Wisdomtree Emerging Markets EX-State-Owned Enterprises Fund,1688.2849,0.0,주식,Growth,,,EM,
-278530 KS Equity,Samsung KODEX 200 Total Return ETF,1639.02335,-13.5178,주식,Blend,Large,,DM,Korea
+278530 KS Equity,Samsung KODEX 200 Total Return ETF,1617.17546,-13.5178,주식,Blend,Large,,DM,Korea
 FLIN US Equity,Franklin FTSE India ETF,1716.6497,32.8947,주식,Blend,,,EM,india
-588050 CH Equity,ICBC Credit Suisse CSI Science and Technology Innovation Board 50 ETF,1654.97363,-63.474,주식,Blend,,technology,EM,China
+588050 CH Equity,ICBC Credit Suisse CSI Science and Technology Innovation Board 50 ETF,1654.97363,-92.489,주식,Blend,,technology,EM,China
 ACWI FP Equity,Amundi MSCI All Country World UCITS ETF,1692.21816,13.4685,주식,Blend,,,,
 EJAP FP Equity,BNP Paribas Easy MSCI Japan ESG Filtered Min TE ETF,1742.23259,13.7662,주식,Blend,Large,,DM,Japan
 LOCK LN Equity,iShares Digital Security UCITS ETF,1759.353,7.4408,주식,Blend,,technology,,
@@ -743,12 +743,12 @@ VXC CN Equity,Vanguard FTSE Global All Cap ex Canada Index ETF,1619.78687,3.2605
 FENY US Equity,Fidelity MSCI Energy Index ETF,1520.0019,-2.4299,주식,Blend,Large,energy,DM,
 LVHI US Equity,Franklin International Low Volatility High Dividend Index ETF,1695.1746,58.1769,주식,Value,,,DM,
 FUSA LN Equity,Fidelity US Quality Income UCITS ETF,1611.8594,0.0,주식,Value,Large,,DM,
-512690 CH Equity,Penghua CSI Alcohol ETF,1599.41463,10.7721,주식,,,,EM,China
+512690 CH Equity,Penghua CSI Alcohol ETF,1599.41463,28.2358,주식,,,,EM,China
 BMOGEAN CN Equity,BMO Global Equity Fund,1585.18736,0.2223,주식,Growth,Large,,,
 159928 CH Equity,China Universal CSI Consumer Staples Index ETF,1583.13157,6.759600000000001,주식,Blend,Large,staples,EM,China
 IAUP LN Equity,iShares Gold Producers UCITS ETF,1708.5068,-22.0166,주식,Blend,,materials,,
 RSSL US Equity,Global X Russell 2000 ETF,1561.540778,0.0,주식,Blend,,,DM,
-PSGF65 IT Equity,IBI SAL 4D S&P 500,1598.6166,0.4755,주식,Blend,Large,,DM,
+PSGF65 IT Equity,IBI SAL 4D S&P 500,1593.8019,0.4755,주식,Blend,Large,,DM,
 HEDJ US Equity,WisdomTree Europe Hedged Equity Fund,1584.8706,0.0,주식,Blend,Large,,,
 NULG US Equity,Nuveen ESG Large-Cap Growth ETF,1518.3328,-13.3809,주식,Growth,Large,,DM,
 BSVO US Equity,EA Bridgeway Omni Small-Cap Value Etf,1540.1426,3.3049,주식,Value,small,,DM,
@@ -783,7 +783,7 @@ ETFDAX GR Equity,Deka DAX UCITS ETF,1573.30448,-24.5996,주식,Blend,Large,,DM,
 XSMO US Equity,Invesco S&P SmallCap Momentum ETF,1491.8821,24.7769,주식,Growth,small,,DM,
 CSINDU SW Equity,iShares Dow Jones Industrial Average UCITS ETF,1521.2556,13.8789,주식,Blend,Large,,DM,
 IGSU LN Equity,iShares Dow Jones Global Sustainability Screened UCITS ETF,1490.0745,0.0,주식,Blend,Large,,,
-458730 KS Equity,MIRAE ASSET TIGER U.S. Dividend Equity ETF,1522.92471,46.0003,주식,,Large,,,
+458730 KS Equity,MIRAE ASSET TIGER U.S. Dividend Equity ETF,1504.03094,46.0003,주식,,Large,,,
 FXL US Equity,First Trust Technology AlphaDEX Fund,1478.1418,-7.8583,주식,Growth,,technology,DM,
 EWA US Equity,iShares MSCI Australia ETF,1454.1626,0.0,주식,Blend,Large,,DM,
 UBUT GR Equity,UBS Irl ETF plc - Factor MSCI USA Quality ESG UCITS ETF,1455.68461,-5.2271,주식,Blend,Large,,DM,
@@ -799,7 +799,7 @@ ZLU CN Equity,BMO Low Volatility US Equity ETF,1473.19447,-7.7822,주식,Blend,L
 QUS US Equity,SPDR MSCI USA StrategicFactors ETF,1464.7131,4.8328,주식,Blend,Large,,DM,
 IEVL LN Equity,iShares Edge MSCI Europe Value Factor UCITS ETF,1495.62278,13.109,주식,Value,Large,,,
 XCHA GR Equity,Xtrackers CSI300 Swap UCITS ETF,1477.28452,24.6674,주식,Blend,Large,,EM,China
-310970 KS Equity,MIRAE ASSET TIGER MSCI Korea Total Return ETF,1432.59177,0.0,주식,Blend,Large,,DM,Korea
+310970 KS Equity,MIRAE ASSET TIGER MSCI Korea Total Return ETF,1413.86649,0.0,주식,Blend,Large,,DM,Korea
 FCOM US Equity,Fidelity MSCI Communication Services Index ETF,1526.1116,35.0205,주식,Blend,,Communication,DM,
 JREM LN Equity,JPMorgan Global Emerging Markets Research Enhanced Index Equity ESG UCITS ETF,1468.945,-0.1568,주식,Blend,Large,,EM,
 SMMD US Equity,iShares Russell 2500 ETF,1412.5471,10.5341,주식,Blend,mid,,DM,
@@ -935,13 +935,13 @@ BSCQ US Equity,Invesco BulletShares 2026 Corporate Bond ETF,4247.9972,-0.0025000
 CGCP US Equity,Capital Group Core Plus Income ETF,4331.9167,52.2546,채권,agg,,,,
 CASH CN Equity,Global X High Interest Savings ETF,4305.79275,171.1325,채권,,,,,
 00725B TT Equity,Cathay BBB Corporate bond ex China Coupon 4.5% 10Yr+ 20% Sector Capped ETF,4001.49737,-33.6845,채권,corporate,,,,
-511520 CH Equity,Fullgoal ChinaBond 7-10 Year Policy Bank Bond ETF,3970.51827,78.0381,채권,agg,,long,,
+511520 CH Equity,Fullgoal ChinaBond 7-10 Year Policy Bank Bond ETF,3970.51827,68.8179,채권,agg,,long,,
 CSBGU0 SW Equity,iShares USD Treasury Bond 7-10yr UCITS ETF USD Acc,3908.2603,-36.8873,채권,government,A+,intermediate,,
 BSCP US Equity,Invesco BulletShares 2025 Corporate Bond ETF,3905.5711,-15.5168,채권,corporate,IG,intermediate,,
 DFSD US Equity,Dimensional Short-Duration Fixed Income ETF,4049.7555,42.4272,채권,corporate,IG,short,,
 00772B TT Equity,CTBC Bloomberg USD Corporate 10+ Year High Grade Capped Bond ETF,3858.14411,-12.5168,채권,corporate,,long,,
 VETY LN Equity,Vanguard EUR Eurozone Government Bond UCITS ETF,3865.22781,5.0685,채권,government,IG,,,
-511380 CH Equity,Bosera CSI Convertible Bond and Exchangeable Bond ETF,3794.58191,-38.9953,채권,convertible,,,,
+511380 CH Equity,Bosera CSI Convertible Bond and Exchangeable Bond ETF,3794.58191,-34.8983,채권,convertible,,,,
 VAB CN Equity,Vanguard Canadian Aggregate Bond Index ETF,3823.97371,-11.241,채권,agg,A+,,,
 SYBZ GR Equity,SPDR Bloomberg Global Aggregate Bond  UCITS ETF,3838.62697,8.4378,채권,agg,IG,,,
 XBLC GR Equity,Xtrackers II EUR Corporate Bond UCITS ETF,3816.08927,29.3126,채권,corporate,IG,,,
@@ -954,7 +954,7 @@ QDVL GR Equity,iShares EUR Corp Bond 0-3yr ESG UCITS ETF,3627.34462,-91.2681,채
 2821 HK Equity,ABF PAN ASIA BOND INDEX FUND,3576.1586,0.539,채권,government,,,,
 TOTL US Equity,SPDR Doubleline Total Return Tactical ETF,3410.2608,5.9594,채권,agg,,,,
 HYLB US Equity,Xtrackers USD High Yield Corporate Bond ETF,3465.7455,21.8965,채권,corporate,HY,,,
-511360 CH Equity,HFT CSI Commercial Paper ETF,3371.10601,-372.5966,채권,agg,,short,,
+511360 CH Equity,HFT CSI Commercial Paper ETF,3371.10601,-370.4005,채권,agg,,short,,
 BILS US Equity,SPDR Bloomberg 3-12 Month T-Bill ETF,3378.2866,44.6319,채권,government,A+,,,
 CB3 FP Equity,Amundi Euro Government Tilted Green Bond UCITS ETF,3432.05704,35.0557,채권,government,IG,,,
 GVI US Equity,iShares Intermediate Government/Credit Bond ETF,3268.8559,0.0,채권,agg,IG,intermediate,,
@@ -1033,7 +1033,7 @@ ERND LN Equity,iShares USD Ultrashort Bond UCITS ETF,2104.7627,5.312300000000000
 MTA FP Equity,Amundi Euro Government Bond 1-3Y UCITS ETF,1993.05266,3.0929,채권,government,IG,short,,
 NSCB CN Equity,NBI Sustainable Canadian Bond ETF,2029.94736,-0.8076,채권,agg,,,,
 FLTR US Equity,VanEck IG Floating Rate ETF,2142.5314,131.0057,채권,corporate,IG,,,
-273130 KS Equity,Samsung KODEX Active Korea Total Bond Market AA- ETF,2006.67961,13.8233,채권,corporate,A+,intermediate,,
+273130 KS Equity,Samsung KODEX Active Korea Total Bond Market AA- ETF,1994.07793,13.8233,채권,corporate,A+,intermediate,,
 HTRB US Equity,Hartford Total Return Bond ETF,2028.785,28.5376,채권,agg,IG,,,
 TBLL US Equity,Invesco Short Term Treasury ETF,2043.0605,40.1174,채권,government,A+,short,,
 FALN US Equity,iShares Fallen Angels USD Bond ETF,2014.05,34.9729,채권,corporate,HY,,,
@@ -1066,7 +1066,7 @@ XHYG GR Equity,Xtrackers II EUR High Yield Corporate Bond UCITS ETF,1830.64264,2
 EGRI FP Equity,AMUNDI INDEX EURO AGG SRI UCITS ETF DR,1748.77416,-7.8173,채권,agg,A+,,,
 NUBF CN Equity,NBI Unconstrained Fixed Income ETF,1752.84887,7.744099999999999,채권,agg,,,,
 BSCT US Equity,Invesco BulletShares 2029 Corporate Bond ETF,1827.0816,55.109,채권,corporate,IG,intermediate,,
-511220 CH Equity,SSE Pledge Urban Investment Bond ETF,1689.66607,0.0,채권,agg,,,,
+511220 CH Equity,SSE Pledge Urban Investment Bond ETF,1689.66607,11.3597,채권,agg,,,,
 CGCB US Equity,Capital Group Core Bond ETF,1791.772607,32.7015,채권,government,,,,
 JBBB US Equity,Janus Henderson B-BBB CLO ETF,1923.8168,135.5995,채권,asset_back,IG,,,
 SDHY LN Equity,iShares USD Short Duration High Yield Corp Bond UCITS ETF,1799.5116,4.076899999999999,채권,corporate,HY,short,,
@@ -1086,7 +1086,7 @@ IBCI LN Equity,iShares EUR Inflation Linked Govt Bond UCITS ETF,1604.69188,45.98
 00723B TT Equity,Capital Bofa Merrill Lynch 15 + Year US Technology & Electronics Index ETF,1539.6412,0.0,채권,corporate,,long,,
 IBDV US Equity,iShares iBonds Dec 2030 Term Corporate ETF,1647.6562,32.123,채권,corporate,IG,long,,
 ZROZ US Equity,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,1550.3098,-3.4044000000000008,채권,government,A+,long,,
-511030 CH Equity,Ping An China Bond - Medium-High Grade Corporate Bond Spread factors ETF Fund,1514.3494,2.8929,채권,corporate,,,,
+511030 CH Equity,Ping An China Bond - Medium-High Grade Corporate Bond Spread factors ETF Fund,1514.3494,11.2746,채권,corporate,,,,
 GCVB LN Equity,SPDR FTSE Global Conv Bond UCITS ETF,1531.9467,5.5134,채권,convertible,,intermediate,,
 MTBA US Equity,Simplify MBS ETF,1509.306713,17.4208,채권,mortage_back,,,,
 BETF0431 IN Equity,BHARAT Bond ETF - April 2031,1486.14295,0.0,채권,government,A+,,,
@@ -1115,7 +1115,7 @@ JBND US Equity,JPMorgan Active Bond ETF,1413.517014,26.2489,채권,agg,IG,long,,
 EVTR US Equity,Eaton Vance Total Return Bond ETF,1433.2109,68.2322,채권,agg,,intermediate,,
 TDB CN Equity,TD Canadian Aggregate Bond Index ETF,1364.25372,12.9685,채권,agg,,,,
 UCRP FP Equity,Amundi Index US Corp SRI UCITS ETF DR,1289.6606,-62.6698,채권,corporate,,,,
-453850 KS Equity,KIM ACE U.S. Long Term T-Bond Active ETF H,1366.28414,2.1612,채권,government,,long,,
+453850 KS Equity,KIM ACE U.S. Long Term T-Bond Active ETF H,1358.21301,2.1612,채권,government,,long,,
 XCB CN Equity,iShares Core Canadian Corporat,1379.04316,7.0573,채권,corporate,IG,,,
 IBTH US Equity,iShares iBonds Dec 2027 Term Treasury ETF,1354.0176,21.0768,채권,government,A+,,,
 UNIY US Equity,WisdomTree Voya Yield Enhanced USD Universal Bond Fund,1319.1887,0.0,채권,agg,,,,
@@ -1148,7 +1148,7 @@ IBGM LN Equity,iShares II plc - iShares EUR Govt Bond 7-10yr UCITS ETF,1181.3586
 HYUS LN Equity,iShares Broad USD High Yield Corp Bond UCITS ETF,1146.8852,0.0,채권,corporate,HY,,,
 BNDW US Equity,Vanguard Total World Bond ETF,1080.6632,-1.3664,채권,agg,IG,,,
 CACB CN Equity,CIBC Active Investment Grade Corporate Bond ETF,1178.74356,0.0,채권,corporate,IG,,,
-214980 KS Equity,Samsung KODEX KRW Cash Plus ETF - Bond,1135.34915,-19.1401,채권,agg,,,,
+214980 KS Equity,Samsung KODEX KRW Cash Plus ETF - Bond,1120.89865,-19.1401,채권,agg,,,,
 TIP1D SW Equity,UBS Lux Fund Solutions - Bloomberg TIPS 1-10 UCITS ETF,1162.335,6.380199999999999,채권,inflation,IG,intermediate,,
 XDGU GR Equity,Xtrackers USD Corporate Bond UCITS ETF,1135.12196,4.6346,채권,corporate,IG,,,
 SGIL LN Equity,iShares Global Inflation Linked Govt Bond UCITS ETF,1191.86447,-2.942299999999999,채권,inflation,IG,,,
@@ -1183,7 +1183,7 @@ ZPR CN Equity,BMO Laddered Preferred Share Index ETF,1005.80609,-4.6247,채권,p
 XGB CN Equity,iShares Core CanadianGovernm,1018.60243,-16.5414,채권,government,A+,,,
 EBBB FP Equity,Amundi EUR Corporate Bond 1-5Y ESG,972.18952,24.1997,채권,corporate,IG,short,,
 US10 LN Equity,Amundi US Treasury Bond Long Dated UCITS ETF,1089.517,-1.2428,채권,government,IG,long,,
-QPON AU Equity,BetaShares Australian Bank Senior Floating Rate Bond ETF,1019.72177,1.3092,채권,bank_loan,,,,
+QPON AU Equity,BetaShares Australian Bank Senior Floating Rate Bond ETF,1017.19719,1.3092,채권,bank_loan,,,,
 ZCPB CN Equity,BMO Core Plus Bond Fund ETF,1177.39226,20.0322,채권,agg,,,,
 BSJP US Equity,Invesco BulletShares 2025 High Yield Corporate Bond ETF,1001.8448,9.2576,채권,corporate,HY,intermediate,,
 SUSB US Equity,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,1004.0115,2.4752,채권,corporate,IG,short,,
@@ -1197,13 +1197,13 @@ XGIN GR Equity,Xtrackers II Global Inflation-Linked Bond UCITS ETF,906.37651,-8.
 3053 HK Equity,CSOP Hong Kong Dollar Money Market ETF,892.62198,0.0,채권,,,,,
 TLTW US Equity,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,1007.9648,14.118099999999998,채권,government,A+,long,,
 X1G FP Equity,Amundi Govt Bond Lowest Rated Euro Investment Grade UCITS ETF DR,1034.57732,5.2557,채권,government,IG,,,
-453540 KS Equity,MIRAE ASSET TIGER 25-10 CORPORATE ACTIVE ETF,989.1446,14.0241,채권,corporate,,,,
+453540 KS Equity,MIRAE ASSET TIGER 25-10 CORPORATE ACTIVE ETF,986.66521,14.0241,채권,corporate,,,,
 TRES LN Equity,Invesco US Treasury Bond UCITS ETF,1004.3059,-5.934,채권,government,IG,,,
 LONZ US Equity,Pimco Senior Loan Active Exchange-Traded Fund,968.716,1.0187,채권,bank_loan,,,,
 CGSD US Equity,Capital Group Short Duration Income ETF,982.8597,7.7042,채권,agg,IG,,,
 DUSB US Equity,Dimensional Ultrashort Fixed Income ETF,1027.1367,38.0322,채권,agg,IG,,,
 BSJQ US Equity,Invesco Bulletshares 2026 High Yield Corporate Bond ETF,999.4925,28.0855,채권,corporate,HY,intermediate,,
-385540 KS Equity,KB KBSTAR Active Korea Total Bond Market A- ETF,946.51614,-7.507599999999999,채권,agg,A+,,,
+385540 KS Equity,KB KBSTAR Active Korea Total Bond Market A- ETF,940.36229,-7.507599999999999,채권,agg,A+,,,
 FCGB CN Equity,Fidelity Global Core Plus Bond ETF,844.61638,-1.1438,채권,agg,,,,
 AVIG US Equity,Avantis Core Fixed Income ETF,989.6432,18.3353,채권,agg,,,,
 IBDX US Equity,iShares iBonds Dec 2032 Term Corporate ETF,983.0939,17.2454,채권,corporate,IG,intermediate,,
@@ -1237,7 +1237,7 @@ FLBL US Equity,Franklin Senior Loan ETF,930.4664,87.10629999999999,채권,bank_l
 2512 JP Equity,NEXT FUNDS International Bond,873.1654,2.9874,채권,government,,,,
 BSCV US Equity,Invesco Bulletshares 2031 Corporate Bond ETF,877.7868,19.3715,채권,corporate,IG,long,,
 159650 CH Equity,Bosera ChinaBond 0-3 Year CDB Bond ETF,826.35695,-0.1420000000000001,채권,agg,,,,
-476550 KS Equity,MIRAE ASSET TIGER 30Y US TREASURY BOND PREMIUM ACTIVE ETF H,849.3053,-14.0972,채권,,,,,
+476550 KS Equity,MIRAE ASSET TIGER 30Y US TREASURY BOND PREMIUM ACTIVE ETF H,844.42689,-14.0972,채권,,,,,
 BHYB US Equity,Xtrackers USD High Yield BB-B ex Financials ETF,819.064436,0.0,채권,agg,HY,,,
 CBIL CN Equity,Global X 0-3 Month T-Bill ETF,824.69785,-21.7847,채권,government,,,,
 GLTL LN Equity,SPDR Bloomberg Barclays 15+ Year Gilt UCITS ETF,897.3929,6.328100000000001,채권,government,IG,long,,
@@ -1253,7 +1253,7 @@ X03G GR Equity,Xtrackers II Germany Government Bond UCITS ETF,841.74873,25.2599,
 SCYB US Equity,Schwab High Yield Bond ETF,840.6633,28.9657,채권,corporate,HY,,,
 NHYB CN Equity,NBI High Yield Bond ETF,795.52882,3.3886,채권,corporate,HY,,,
 DCU CN Equity,Desjardins Canadian Universe Bond Index ETF,852.9483,1.2753,채권,agg,IG,,,
-494900 KS Equity,MIRAE ASSET TIGER 25-12 FINANCIAL ETF,797.38357,20.5056,채권,agg,A+,short,,
+494900 KS Equity,MIRAE ASSET TIGER 25-12 FINANCIAL ETF,793.23299,20.5056,채권,agg,A+,short,,
 GLTY LN Equity,SPDR Bloomberg UK Gilt  UCITS ETF,782.18564,3.0373,채권,government,,,,
 MUB CN Equity,Mackenzie Unconstrained Bond ETF,780.07486,2.5667,채권,agg,,,,
 ZJK CN Equity,BMO High Yield US Corporate Bond Index ETF,759.65074,-3.2306,채권,corporate,HY,,,
@@ -1324,7 +1324,7 @@ PHAU LN Equity,WisdomTree Physical Gold,5395.3675,2.5851000000000006,원자재,P
 PDBC US Equity,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,4395.5997,-18.7832,원자재,diversified,,,,
 SGOL US Equity,abrdn Physical Gold Shares ETF,4140.3924,26.9751,원자재,Precious_metals,,,,
 SGBS LN Equity,WisdomTree Physical Swiss Gold,3453.896,-4.2241,원자재,Precious_metals,,,,
-518880 CH Equity,Huaan Yifu Gold ETF,3361.42922,61.86240000000001,원자재,Precious_metals,,,,
+518880 CH Equity,Huaan Yifu Gold ETF,3361.42922,51.81560000000001,원자재,Precious_metals,,,,
 GBS LN Equity,Gold Bullion Securities Ltd,3244.564,1.7862,원자재,Precious_metals,,,,
 AUUSI SW Equity,UBS ETF CH-Gold,3213.214,13.686099999999998,원자재,Precious_metals,,,,
 CMOD LN Equity,Invesco Bloomberg Commodity UCITS ETF,2960.75062,-32.9866,원자재,diversified,,,,

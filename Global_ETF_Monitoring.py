@@ -79,9 +79,12 @@ col1, col2 = st.columns(2)
 # 두 번째 행: 세 개의 컬럼
 col3, col4, col5 = st.columns(3)
 
+#######################
+# 자산별 가격 추이 그래프 #
+#######################
 # 파일 불러오기
 
-file_path = "./data/asset_index_df.csv"  # 로컬 또는 경로 수정
+file_path = "./data/page1_left_asset_index_df.csv"  # 로컬 또는 경로 수정
 df_col1_1 = pd.read_csv(file_path, index_col=0)
 
 # 색상 지정 (더 짙은 파란색 계열 적용)
@@ -124,6 +127,10 @@ with col1:
         st.plotly_chart(page1_col1, use_container_width=True)
 
 with col2:
+
+    #####################
+    # 자산별 수익률 히트맵 #
+    #####################
 
 
     # 데이터 로드 함수
@@ -211,7 +218,7 @@ with col2:
 
 
 # CSV 파일 불러오기
-df_col1_2 = pd.read_csv('data/asset_ff_aum.csv', index_col=0)
+df_col1_2 = pd.read_csv('data/page1_middle_asset_ff_aum.csv', index_col=0)
 
 # 날짜 형식 변경
 if isinstance(df_col1_2.index, pd.DatetimeIndex):
@@ -286,7 +293,7 @@ with col5:
 ##############################
 
 # 데이터 불러오기
-df_page1_bottom = pd.read_csv('./data/page1_ff,aum_4w_cul.csv', index_col=0, parse_dates=True).iloc[3:]
+df_page1_bottom = pd.read_csv('./data/page1_bottom_ff,aum_4w_cul.csv', index_col=0, parse_dates=True).iloc[3:]
 df_page1_bottom = round(df_page1_bottom,2)
 
 # 전처리
